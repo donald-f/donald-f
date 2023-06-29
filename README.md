@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript (I love this language)**
 
-- 📄 Know about my experiences [www.linkedin.com/in/donald-flobeck/](www.linkedin.com/in/donald-flobeck/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/donald-flobeck/](https://www.linkedin.com/in/donald-flobeck/)
 
 - ⚡ Fun fact **I like to play video games... in Spanish! It's a great and immersive way to learn the language.**
 
